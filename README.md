@@ -24,5 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihunhong&theme=default&hide_langs_below=1" />
 </a>
 <a href="https://github.com/jihunhong/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jihunhong&show_icons=true&theme=default&line_height=32" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jihunhong&show_icons=true&theme=default&line_height=33" alt="Anurag's github stats" />
 </a>
